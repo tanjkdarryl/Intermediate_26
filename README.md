@@ -31,6 +31,14 @@ Specially created for BuildingBloCS June Conference 2025 Hackathon.
 ## Instructions to Run
 1. Clone the Github repository
 2. Run Personal_Copy_Team_I26_v3.ipynb file
+    - Package Installation
+    - Home Page
+    - About Page
+    - Contact Us Page
+    - Chatbot Page
+    - Facial Recognition
+    - Depression Test
+    - Run the Streamlit Application
 3. Run Facial_Recog_v4.ipynb file
     - Environment Setup & Kaggle API Key Configuration
     - Device Configuration
