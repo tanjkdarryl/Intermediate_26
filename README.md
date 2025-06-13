@@ -19,7 +19,6 @@ Specially created for BuildingBloCS June Conference 2025 Hackathon.
 2. Detects emotional states like sadness, anger, and neutrality.
 3. Processes locally; no data is stored or uploaded.
 
-<<<<<<< Updated upstream
 ### Feature 3: Audio Input Recognition
 1. Accepts audio files from the user.
 2. An Pytorch machine learning model evaluates for suicide risk indicators in the audio.
