@@ -9,7 +9,7 @@ BuildingBloCS June Conference 2025 Hackathon
 > TOMMO is a Streamlit-powered mental health web application designed to help users reflect on their emotional well-being. Unlike traditional clinical tools, TOMMO offers warmth, anonymity, and interactivity through three core self-assessment features:
 > PHQ-9 Depression Screener
 > Facial Emotion Recognition
-> Suicide Risk Text Analysis (NLP-based)
+> Audio Input Recognition
 > The app does not diagnose or store data — it simply listens, reflects, and encourages.
 
 ## Features
@@ -23,7 +23,7 @@ BuildingBloCS June Conference 2025 Hackathon
 2. Detects emotional states like sadness, anger, and neutrality.
 3. Processes locally; no data is stored or uploaded.
 
-# Feature 3 - Suicide Text Detection
-1. Accepts written input from the user.
-2. An NLP model evaluates for suicide risk indicators in the text.
-3. Results are delivered with care and, if needed, links to external support are provided
+# Feature 3 - Audio Input Recognition
+1. Accepts audio files from the user.
+2. An Pytorch machine learning model evaluates for suicide risk indicators in the audio.
+3. Results are efficiently compared and classified through reviewing Kaggle Speech Emotion Recogntion datasets for a most honest output.
