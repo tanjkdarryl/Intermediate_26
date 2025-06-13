@@ -31,10 +31,10 @@ Specially created for BuildingBloCS June Conference 2025 Hackathon.
 ## Instructions to Run
 1. Clone the Github repository
 2. Run Facial_Recog_v4.ipynb file
-- Environment Setup & Kaggle API Key Configuration
-- Device Configuration
-- Streamlined Model Architecture (Faster Training)
-- Simplified Data Augmentation (Faster)
-- Optimized Training Function
-- Model Save Path
-- Main Execution
+    - Environment Setup & Kaggle API Key Configuration
+    - Device Configuration
+    - Streamlined Model Architecture (Faster Training)
+    - Simplified Data Augmentation (Faster)
+    - Optimized Training Function
+    - Model Save Path
+    - Main Execution
